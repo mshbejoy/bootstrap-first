@@ -1,0 +1,181 @@
+
+
+
+header{
+    background: #F0FFF0;
+}
+.menu_text{
+
+    text-transform: capitalize;
+}
+
+header h6{
+    color: #FD511A;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: Poppins;
+  
+
+}
+header h1{
+    color: #000000;
+    font-size: 48px;
+    line-height: 70px;
+    font-weight: 700;
+    font-family: Poppins;
+   
+}
+
+header h1 span{
+    color: #21B573;
+}
+
+header p{
+    color: #000000;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 36px;
+    font-family: Poppins;
+}
+
+.btn_custom{
+
+background: #21b573;
+
+color: #f0fff0;
+
+text-transform: capitalize;
+
+border: none;
+
+border-radius: 20px;
+
+padding: 7px 16px;
+
+font-size: 16px;
+
+transition: .4s all ease-in-out;
+}
+
+.btn_custom:hover{
+    background: #05472a;
+    color: #F0FFF0;
+}
+
+.height{
+    min-height: 75vh;
+    align-items: center;
+}
+
+
+
+.feature_content{
+    background: #F8FFFB;
+    padding: 25px 0;
+    cursor: pointer;
+}
+
+.feature_content:hover{
+  
+    box-shadow: 0px 20px 40px 0px #0000001A;
+
+}
+
+.feature_content img{
+    width: 20%;
+}
+.feature_content h2{
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #413960;
+    margin-top: 15px;
+}
+.feature_content p{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: #585859;
+
+
+}
+.course{
+
+box-shadow: 0px 10px 40px 0px #0000001A;
+
+padding: 8px;
+}
+.course img{
+
+}
+.course h2{
+
+font-family: Poppins;
+
+font-size: 24px;
+
+font-weight: 500;
+
+line-height: 36px;
+
+letter-spacing: 0em;
+
+text-align: left;
+
+color: #413960;
+
+margin-top: 20px;
+}
+.course h5{
+
+font-family: Poppins;
+
+font-size: 16px;
+
+font-weight: 400;
+
+line-height: 24px;
+
+letter-spacing: 0em;
+
+text-align: left;
+
+color: #585859;
+}
+.btn_custom2{color: #fff;background: #21B573;padding: 0;padding: 6px 19px;border-radius: 20px;font-family: Poppins;font-size: 14px;font-weight: 400;line-height: 19px;margin-bottom: 20px;}
+.course ul{
+
+list-style: none;
+
+margin: 0;
+
+padding: 0;
+
+display: flex;
+
+justify-content: space-between;
+}
+.course ul li{
+    
+font-family: Poppins;
+    
+font-size: 14px;
+    
+font-weight: 500;
+    
+line-height: 24px;
+    
+color: #585859;
+}
+.course ul li i{
+    
+margin-right: 6px;
+}
+.btn_custom2:hover{
+    color: #fff;
+    background-color:#1a7d50;
+}
